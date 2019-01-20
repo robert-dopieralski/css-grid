@@ -12,3 +12,11 @@
     margin: 0 auto;
 }
 
+#content div {
+    padding: 30px;
+    background-color: aqua;
+}
+
+#content div:nth-child(even) {
+    background-color: #777;
+}
