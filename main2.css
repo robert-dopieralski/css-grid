@@ -1,0 +1,14 @@
+* {
+    font-family: Helvetica, Arial;
+    text-align: center;
+}
+
+#content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /*grid-template-rows: repeat(4, minmax(150px, auto));*/
+    grid-gap: 10px;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
