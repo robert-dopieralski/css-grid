@@ -1,0 +1,24 @@
+* {
+    color: white;
+    font-family: Helvetica, Arial;
+}
+
+header {
+    background-color: royalblue
+}
+
+main {
+    background-color: brown;
+}
+
+aside {
+    background-color: yellow
+}
+
+nav {
+    background-color: yellowgreen;
+}
+
+footer {
+    background-color: maroon;
+}
