@@ -20,16 +20,3 @@
 #content div:nth-child(even) {
     background-color: #777;
 }
-
-.nested {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 50% 50%;
-    grid-gap:10px;
-    grid-column: span 3;
-}
-.nested>p{
-    padding:20px;
-    margin: 0;
-    border: 1px solid white;
-}
